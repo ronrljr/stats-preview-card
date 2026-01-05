@@ -101,7 +101,7 @@
         align-items: center;
         justify-content: flex-start;
         gap: 6.4rem;
-        margin-top: 3.6rem;
+        margin-top: 5.6rem;
     }
 
     .stats-prev__nums-wrap {
@@ -209,5 +209,6 @@
             max-width: 88%;
             font-size: 1.5rem;
         }
+
 
     }
